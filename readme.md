@@ -4,7 +4,7 @@
 
 ## Página funcional de listagem de Personagens
 
-###Features:
+### Features:
 
 Paginação;
 Busca e
